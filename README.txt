@@ -1,7 +1,7 @@
 Purdue Uni QE = UCD PreLim
 
-All of this was found on the Purdue ECE page using the wayback machine. There are mising years/questions that weren't captured properly or they just didnt offer that test then.
-These topics don't line up perfectly with UCD topics. Use your best  judgement on what's what.
+All of this was found on the Purdue ECE page via the wayback machine. There are mising years/questions that weren't captured properly or they just didnt offer that test type then.
+These topics don't line up perfectly with UCD topics. Use your best judgement on what's what.
 
 AC - Automatic Control
 BE - Biomedical Engineering
